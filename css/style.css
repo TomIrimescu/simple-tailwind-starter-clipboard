@@ -536,6 +536,10 @@ h5 {
   margin-top: 4rem;
 }
 
+.mb-16 {
+  margin-bottom: 4rem;
+}
+
 .flex {
   display: flex;
 }
@@ -585,10 +589,6 @@ h5 {
   padding-top: 4rem;
 }
 
-.pl-16 {
-  padding-left: 4rem;
-}
-
 .text-center {
   text-align: center;
 }
@@ -636,6 +636,7 @@ h5 {
   margin-right: auto;
   max-width: 48rem;
   text-align: center;
+  font-size: 1.25rem;
   line-height: 2.25rem;
   --tw-text-opacity: 1;
   color: hsl(201 11% 66% / var(--tw-text-opacity));
